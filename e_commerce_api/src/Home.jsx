@@ -16,8 +16,8 @@ export function Home() {
         </div>
     
         <div className="container">
-            <div class="image"></div>
-            <div class="info">
+            <div className="image"></div>
+            <div className="info">
                 <h2>Timeless Elegance</h2>
                 <p>The watch is a symbol of craftsmanship and elegance, blending classic design with modern precision.</p>
             </div>
@@ -28,11 +28,11 @@ export function Home() {
                 <h3>Precision Engineering</h3>
                 <p>Our watches are designed with the highest standards of precision to ensure accurate timekeeping.</p>
             </div>
-            <div class="feature">
+            <div className="feature">
                 <h3>Luxury Design</h3>
                 <p>Each watch is a masterpiece, crafted with premium materials and attention to every detail.</p>
             </div>
-            <div class="feature">
+            <div className="feature">
                 <h3>Durability</h3>
                 <p>With water resistance and scratch-resistant glass, our watches are made to last.</p>
             </div>
